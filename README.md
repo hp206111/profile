@@ -1,4 +1,4 @@
-# profile
+
 Junior Executive – AI Developer 🤖 Building AI-powered applications using LLMs 🌐 Full Stack Developer with Laravel &amp; React.js 🧠 Exploring Generative AI, AI Agents &amp; Prompt Engineering ⚡ Passionate about automation, APIs, and scalable software 📚 Continuously learning emerging AI technologies
 # 💫 About Me:
 I'm currently working as Junior Executive AI Developer<br>💼 Junior Executive – AI Developer<br>🤖 Building AI-powered applications using LLMs<br>🌐 Full Stack Developer with Laravel & React.js<br>🧠 Exploring Generative AI, AI Agents & Prompt Engineering<br>⚡ Passionate about automation, APIs, and scalable software<br>📚 Continuously learning emerging AI technologies
